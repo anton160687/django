@@ -15,8 +15,10 @@ from pathlib import Path
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
-
+DEBUG = False
+SESSION_COOKIE_SECURE = True
+CSRF_COOKIE_SECURE = True
+STATIC_ROOT = BASE_DIR / 'static/'
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
@@ -29,6 +31,7 @@ SECRET_KEY = 'django-insecure-a18m1zr@f52($gtw+iqqih(o3yg=k%k^2r5_!mg8$lc5wd4xi6
 
 ALLOWED_HOSTS = [
     '127.0.0.1',
+    'anton1625.pythonanywhere.com',
 ]
 
 
@@ -41,6 +44,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'debug_toolbar',
     'myapp',
 ]
 
@@ -52,6 +56,8 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'debug_toolbar.middleware.DebugToolbarMiddleware',
+
 ]
 
 ROOT_URLCONF = 'djangomagazin.urls'
@@ -80,8 +86,13 @@ WSGI_APPLICATION = 'djangomagazin.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'anton1625$default',
+        'USER': 'anton1625',
+        'PASSWORD': os.getenv('MYSQL_PASSWORD'),
+        'HOST': 'anton1625.mysql.pythonanywhere-services.com',
+        'OPTIONS': {'init_command': "SET NAMES 'utf8mb4';SET sql_mode='STRICT_TRANS_TABLES'", 'charset': 'utf8mb4' },
+
     }
 }
 
