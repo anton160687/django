@@ -1,0 +1,23 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Пользователи</title>
+<link rel="stylesheet" href="{% static 'myapp/css/style.css' %}">
+</head>
+<body>
+<header>
+        <nav>
+                <a href="{% url 'add_order' %}">Добавить заказ</a>
+                <a href="{% url 'orders' %}">Список заказов</a>
+        </nav>
+    </header>
+<h2>Список пользователей</h2>
+<ul>
+    {% for user in users %}
+    <li>{{ user.name }} - {{ user.email }} - {{ user.age }}</li>
+    {% endfor %}
+</ul>
+</body>
+</html>

@@ -1,0 +1,2270 @@
+Watching for file changes with StatReloader
+Index page accessed
+"GET / HTTP/1.1" 200 13
+Error in about page: division by zero
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 14, in about
+    result = 1 / 0
+ZeroDivisionError: division by zero
+"GET /about/ HTTP/1.1" 200 27
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+About page accessed
+"GET /about/ HTTP/1.1" 200 23
+C:\dev\djangofinal\djangomagazin\myapp\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Index page accessed
+"GET / HTTP/1.1" 200 13
+Watching for file changes with StatReloader
+Index page accessed
+"GET / HTTP/1.1" 200 13
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+"GET /static/admin/css/base.css HTTP/1.1" 200 21544
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/css/login.css HTTP/1.1" 200 958
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4339
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4319
+Watching for file changes with StatReloader
+Index page accessed
+"GET / HTTP/1.1" 200 13
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4344
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 5533
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /admin/auth/user/add/ HTTP/1.1" 200 10134
+"GET /static/admin/css/forms.css HTTP/1.1" 200 9090
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8067
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9042
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11800
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /admin/auth/group/ HTTP/1.1" 200 7242
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6811
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+Index page accessed
+"GET / HTTP/1.1" 200 13
+"GET /admin/auth/group/ HTTP/1.1" 200 7242
+"GET /admin/ HTTP/1.1" 200 5533
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Index page accessed
+"GET / HTTP/1.1" 200 13
+Not Found: /posts/
+"GET /posts/ HTTP/1.1" 404 3220
+"GET /posts/2024 HTTP/1.1" 301 0
+Internal Server Error: /posts/2024/
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+TypeError: year_post.get() got multiple values for argument 'year'
+"GET /posts/2024/ HTTP/1.1" 500 77408
+C:\dev\djangofinal\djangomagazin\myapp\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /posts/2024/ HTTP/1.1" 200 19
+"GET /posts/2024/05/ HTTP/1.1" 200 20
+"GET /posts/2024/05/09 HTTP/1.1" 301 0
+"GET /posts/2024/05/09/ HTTP/1.1" 200 357
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 14, in index
+    return render(request, "myapp/my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/my_template.html
+"GET / HTTP/1.1" 500 85715
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 14, in index
+    return render(request, "my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: my_template.html
+"GET / HTTP/1.1" 500 85631
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 14, in index
+    return render(request, "/tamplates/my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: /tamplates/my_template.html
+"GET / HTTP/1.1" 500 85071
+Index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 14, in index
+    return render(request, "/tamplates/my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: /tamplates/my_template.html
+"GET / HTTP/1.1" 500 85208
+Index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 14, in index
+    return render(request, "/tamplates/my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: /tamplates/my_template.html
+"GET / HTTP/1.1" 500 85208
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 14, in index
+    return render(request, "/templates/my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: /templates/my_template.html
+"GET / HTTP/1.1" 500 85208
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 14, in index
+    return render(request, "templates/my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: templates/my_template.html
+"GET / HTTP/1.1" 500 85771
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 14, in index
+    return render(request, "./templates/my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: ./templates/my_template.html
+"GET / HTTP/1.1" 500 85791
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 14, in index
+    return render(request, "/templates/my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: /templates/my_template.html
+"GET / HTTP/1.1" 500 85071
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 14, in index
+    return render(request, "my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: my_template.html
+"GET / HTTP/1.1" 500 85631
+Index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 14, in index
+    return render(request, "my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: my_template.html
+"GET / HTTP/1.1" 500 85768
+Index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 14, in index
+    return render(request, "my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: my_template.html
+"GET / HTTP/1.1" 500 85768
+C:\dev\djangofinal\djangomagazin\djangomagazin\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 14, in index
+    return render(request, "my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: my_template.html
+"GET / HTTP/1.1" 500 86016
+Watching for file changes with StatReloader
+Index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 14, in index
+    return render(request, "my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: my_template.html
+"GET / HTTP/1.1" 500 86016
+C:\dev\djangofinal\djangomagazin\djangomagazin\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 14, in index
+    return render(request, "my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: my_template.html
+"GET / HTTP/1.1" 500 85631
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 14, in index
+    return render(request, "myapp/my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/my_template.html
+"GET / HTTP/1.1" 500 85715
+Watching for file changes with StatReloader
+Index page accessed
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 14, in index
+    return render(request, "myapp/my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/my_template.html
+"GET / HTTP/1.1" 500 85715
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 28, in my_view
+    return render(request, "myapp/my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/my_template.html
+"GET / HTTP/1.1" 500 85875
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 28, in my_view
+    return render(request, 'myapp/my_template.html', context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/my_template.html
+"GET / HTTP/1.1" 500 85875
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 28, in my_view
+    return render(request, "myapp/tamplates/my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/tamplates/my_template.html
+"GET / HTTP/1.1" 500 86015
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 28, in my_view
+    return render(request, "/myapp/tamplates/my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: /myapp/tamplates/my_template.html
+"GET / HTTP/1.1" 500 85291
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 28, in my_view
+    return render(request, "/myapp/my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: /myapp/my_template.html
+"GET / HTTP/1.1" 500 85191
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 28, in my_view
+    return render(request, "myapp/my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/my_template.html
+"GET / HTTP/1.1" 500 85875
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 29, in my_view
+    return render(request, "myapp/my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/my_template.html
+"GET / HTTP/1.1" 500 85875
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 29, in my_view
+    return render(request, "myapp/my_template.html", context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp/my_template.html
+"GET / HTTP/1.1" 500 85875
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 62, in user_list
+    return render(request, 'user_list.html', {'users': users})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: user_list.html
+"GET / HTTP/1.1" 500 85563
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 62, in user_list
+    return render(request, 'users/user_list.html', {'users': users})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: users/user_list.html
+"GET / HTTP/1.1" 500 85784
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 62, in user_list
+    return render(request, 'users/user_list.html', {'users': users})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: users/user_list.html
+"GET / HTTP/1.1" 500 85647
+C:\dev\djangofinal\djangomagazin\myapp\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 62, in user_list
+    return render(request, 'users/user_list.html', {'users': users})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: users/user_list.html
+"GET / HTTP/1.1" 500 85647
+"GET /admin/ HTTP/1.1" 200 6998
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /admin/myapp/order/ HTTP/1.1" 200 7973
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /admin/myapp/user/ HTTP/1.1" 200 9986
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/myapp/user/2/change/ HTTP/1.1" 200 10987
+"GET /static/admin/css/forms.css HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+"GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+"GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+"GET /admin/myapp/product/ HTTP/1.1" 200 7987
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/myapp/order/ HTTP/1.1" 200 7973
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 62, in user_list
+    return render(request, 'users/user_list.html', {'users': users})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: users/user_list.html
+"GET / HTTP/1.1" 500 86004
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 298
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /orders/ HTTP/1.1" 200 159
+"GET /admin/ HTTP/1.1" 200 6998
+"GET /admin/myapp/order/ HTTP/1.1" 200 7973
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/myapp/order/add/ HTTP/1.1" 200 11879
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /admin/myapp/product/add/?_to_field=id&_popup=1 HTTP/1.1" 200 6269
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/myapp/product/add/?_to_field=id&_popup=1 HTTP/1.1" 200 338
+"GET /static/admin/js/popup_response.js HTTP/1.1" 200 551
+"POST /admin/myapp/order/add/ HTTP/1.1" 302 0
+"GET /admin/myapp/order/ HTTP/1.1" 200 9454
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+"GET /orders/ HTTP/1.1" 200 227
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 298
+Internal Server Error: /add-order/
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader_tags.py", line 134, in render
+    compiled_parent = self.get_parent(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader_tags.py", line 131, in get_parent
+    return self.find_template(parent, context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader_tags.py", line 109, in find_template
+    template, origin = context.template.engine.find_template(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 163, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 25, in add_order
+    return render(request, 'add_order.html', {'form': form})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+"GET /add-order/ HTTP/1.1" 500 136032
+"GET /add-order/ HTTP/1.1" 200 1278
+Internal Server Error: /add-order/
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 22, in add_order
+    return redirect('order_success') # Перенаправление на страницу успеха или список заказов
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 49, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 180, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'order_success' not found. 'order_success' is not a valid view function or pattern name.
+"POST /add-order/ HTTP/1.1" 500 91571
+C:\dev\djangofinal\djangomagazin\myapp\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 298
+"GET /add-order/ HTTP/1.1" 200 1278
+"POST /add-order/ HTTP/1.1" 302 0
+Internal Server Error: /order-success/
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 28, in order_success
+    return render(request, 'order_success.html')
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'home' not found. 'home' is not a valid view function or pattern name.
+"GET /order-success/ HTTP/1.1" 500 160066
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 298
+"GET /order-success/ HTTP/1.1" 200 371
+"GET /orders/ HTTP/1.1" 200 360
+"GET /orders/ HTTP/1.1" 200 360
+"POST /add-order/ HTTP/1.1" 302 0
+"GET /order-success/ HTTP/1.1" 200 371
+"GET /add-order/ HTTP/1.1" 200 1278
+"POST /add-order/ HTTP/1.1" 302 0
+"GET /order-success/ HTTP/1.1" 200 371
+"GET /orders/ HTTP/1.1" 200 490
+"GET /orders/ HTTP/1.1" 200 490
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 346
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 75, in user_list
+    return render(request, 'user_list.html', {'users': users})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'order_list' not found. 'order_list' is not a valid view function or pattern name.
+"GET / HTTP/1.1" 500 125680
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 79, in user_list
+    return render(request, 'user_list.html', {'users': users})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'order_list' not found. 'order_list' is not a valid view function or pattern name.
+"GET / HTTP/1.1" 500 125680
+C:\dev\djangofinal\djangomagazin\myapp\models.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 79, in user_list
+    return render(request, 'user_list.html', {'users': users})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'order_list' not found. 'order_list' is not a valid view function or pattern name.
+"GET / HTTP/1.1" 500 125817
+C:\dev\djangofinal\djangomagazin\myapp\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 76, in user_list
+    return render(request, 'user_list.html', {'users': users})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\defaulttags.py", line 479, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\urls\resolvers.py", line 851, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'orders/' not found. 'orders/' is not a valid view function or pattern name.
+"GET / HTTP/1.1" 500 125605
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 588
+"GET /orders/ HTTP/1.1" 200 490
+"GET /add-order/ HTTP/1.1" 200 1348
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1407
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 1354
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 76, in user_list
+    return render(request, 'user_list.html', {'users': users})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 565, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 6: 'static'. Did you forget to register or load this tag?
+"GET / HTTP/1.1" 500 142623
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 76, in user_list
+    return render(request, 'user_list.html', {'users': users})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 565, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 6: 'static'. Did you forget to register or load this tag?
+"GET / HTTP/1.1" 500 142611
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+KeyError: 'static/'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 76, in user_list
+    return render(request, 'user_list.html', {'users': users})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 565, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 6: 'static/'. Did you forget to register or load this tag?
+"GET / HTTP/1.1" 500 142626
+C:\dev\djangofinal\djangomagazin\djangomagazin\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 76, in user_list
+    return render(request, 'user_list.html', {'users': users})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 565, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 6: 'static'. Did you forget to register or load this tag?
+"GET / HTTP/1.1" 500 142666
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 595
+"GET /static/myapp/css/style.css HTTP/1.1" 404 1816
+"GET /static/myapp/css/style.css HTTP/1.1" 404 1816
+"GET / HTTP/1.1" 200 595
+"GET /static/myapp/css/style.css HTTP/1.1" 404 1816
+"GET /static/myapp/css/style.css HTTP/1.1" 404 1816
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 595
+"GET /static/myapp/css/style.css HTTP/1.1" 404 1816
+"GET /static/myapp/css/style.css HTTP/1.1" 404 1816
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 76, in user_list
+    return render(request, 'user_list.html', {'users': users})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 565, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 6: 'static'. Did you forget to register or load this tag?
+"GET / HTTP/1.1" 500 142666
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 76, in user_list
+    return render(request, 'user_list.html', {'users': users})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 565, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 6: 'static'. Did you forget to register or load this tag?
+"GET / HTTP/1.1" 500 142646
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 76, in user_list
+    return render(request, 'user_list.html', {'users': users})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 565, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 6: 'static'. Did you forget to register or load this tag?
+"GET / HTTP/1.1" 500 142646
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 76, in user_list
+    return render(request, 'user_list.html', {'users': users})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 565, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 6: 'static'. Did you forget to register or load this tag?
+"GET / HTTP/1.1" 500 142666
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 76, in user_list
+    return render(request, 'user_list.html', {'users': users})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 565, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 6: 'static'. Did you forget to register or load this tag?
+"GET / HTTP/1.1" 500 142666
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 595
+"GET /static/myapp/css/style.css HTTP/1.1" 200 603
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 595
+"GET /static/myapp/css/style.css HTTP/1.1" 200 6679
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 595
+"GET /static/myapp/css/style.css HTTP/1.1" 200 603
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 595
+"GET /static/myapp/css/style.css HTTP/1.1" 304 0
+"GET / HTTP/1.1" 200 595
+"GET / HTTP/1.1" 200 595
+"GET / HTTP/1.1" 200 595
+"GET /static/myapp/css/style.css HTTP/1.1" 304 0
+"GET / HTTP/1.1" 200 595
+"GET /orders/ HTTP/1.1" 200 490
+Internal Server Error: /add-order/
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 25, in add_order
+    return render(request, 'add_order.html', {'form': form})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    self.extend_nodelist(nodelist, compiled_result, token)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 528, in extend_nodelist
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: <ExtendsNode: extends 'base.html'> must be the first tag in the template.
+"GET /add-order/ HTTP/1.1" 500 134579
+Watching for file changes with StatReloader
+"GET /add-order/ HTTP/1.1" 200 1348
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 595
+"GET /static/myapp/css/style.css HTTP/1.1" 304 0
+"GET / HTTP/1.1" 200 595
+Internal Server Error: /add-order/
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 25, in add_order
+    return render(request, 'add_order.html', {'form': form})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 15, in get_template
+    return engine.get_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 511, in parse
+    self.extend_nodelist(nodelist, compiled_result, token)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 528, in extend_nodelist
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: <ExtendsNode: extends 'base.html'> must be the first tag in the template.
+"GET /add-order/ HTTP/1.1" 500 134730
+"GET / HTTP/1.1" 200 595
+"GET /static/myapp/css/style.css HTTP/1.1" 304 0
+"GET /orders/ HTTP/1.1" 200 490
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 595
+"GET /static/myapp/css/style.css HTTP/1.1" 304 0
+"GET /add-order/ HTTP/1.1" 200 1213
+"GET /add-order/ HTTP/1.1" 200 1213
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 595
+"GET /static/myapp/css/style.css HTTP/1.1" 304 0
+"GET /add-order/ HTTP/1.1" 200 1213
+Watching for file changes with StatReloader
+"GET /add-order/ HTTP/1.1" 200 7611
+Watching for file changes with StatReloader
+"GET /orders/ HTTP/1.1" 200 490
+"GET / HTTP/1.1" 200 595
+"GET /static/myapp/css/style.css HTTP/1.1" 304 0
+"GET /add-order/ HTTP/1.1" 200 7837
+Watching for file changes with StatReloader
+"GET /add-order/ HTTP/1.1" 200 7781
+Watching for file changes with StatReloader
+"GET /add-order/ HTTP/1.1" 200 7775
+Watching for file changes with StatReloader
+"GET /add-order/ HTTP/1.1" 200 7781
+Watching for file changes with StatReloader
+"GET /add-order/ HTTP/1.1" 200 8414
+Watching for file changes with StatReloader
+"GET /add-order/ HTTP/1.1" 200 8697
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 595
+"GET /static/myapp/css/style.css HTTP/1.1" 304 0
+"GET /add-order/ HTTP/1.1" 200 11016
+Watching for file changes with StatReloader
+"GET /add-order/ HTTP/1.1" 200 11235
+"GET /admin/ HTTP/1.1" 200 7739
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /admin/myapp/product/add/ HTTP/1.1" 200 10652
+"GET /static/admin/css/forms.css HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+"POST /admin/myapp/product/add/ HTTP/1.1" 302 0
+"GET /admin/myapp/product/ HTTP/1.1" 200 9770
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+"GET /add-order/ HTTP/1.1" 200 11284
+Watching for file changes with StatReloader
+Not Found: /les3/posts/2022/6/python/
+"GET /les3/posts/2022/6/python/ HTTP/1.1" 404 3804
+"GET /static/myapp/css/style.css HTTP/1.1" 304 0
+"GET /add-order/ HTTP/1.1" 200 11284
+"GET /add-order/ HTTP/1.1" 200 11284
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 595
+"GET /static/myapp/css/style.css HTTP/1.1" 304 0
+"GET /add-order/ HTTP/1.1" 200 11284
+C:\dev\djangofinal\djangomagazin\myapp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 595
+"GET /add-order/ HTTP/1.1" 200 11222
+Watching for file changes with StatReloader
+"GET /add-order/ HTTP/1.1" 200 11222
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /add-order/ HTTP/1.1" 200 11222
+"GET /add-order/ HTTP/1.1" 200 11222
+"GET /admin/ HTTP/1.1" 200 8096
+"GET /admin/myapp/product/ HTTP/1.1" 200 9559
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/myapp/product/1/change/ HTTP/1.1" 200 11118
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Watching for file changes with StatReloader
+"GET /admin/myapp/product/ HTTP/1.1" 200 9559
+"GET /admin/ HTTP/1.1" 200 8096
+"GET /add-order/ HTTP/1.1" 200 11222
+"POST /add-order/ HTTP/1.1" 200 11292
+"POST /add-order/ HTTP/1.1" 200 11292
+C:\dev\djangofinal\djangomagazin\myapp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /add-order/ HTTP/1.1" 200 11519
+"POST /add-order/ HTTP/1.1" 200 11451
+"POST /add-order/ HTTP/1.1" 200 11451
+C:\dev\djangofinal\djangomagazin\myapp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /add-order/ HTTP/1.1" 200 11374
+"POST /add-order/ HTTP/1.1" 302 0
+"GET /order-success/ HTTP/1.1" 200 459
+"GET /orders/ HTTP/1.1" 200 557
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /add-order/
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 25, in add_order
+    return render(request, 'add_order.html', {'form': form})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1059, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 710, in resolve
+    obj = self.var.resolve(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 842, in resolve
+    value = self._resolve_lookup(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 909, in _resolve_lookup
+    current = current()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\utils.py", line 87, in as_p
+    return self.render(self.template_name_p)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\utils.py", line 55, in render
+    return mark_safe(renderer.render(template, context))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\renderers.py", line 29, in render
+    return template.render(context, request=request).strip()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\defaulttags.py", line 242, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1065, in render
+    return render_value_in_context(output, context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1042, in render_value_in_context
+    value = str(value)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\utils.py", line 79, in __str__
+    return self.as_widget()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\boundfield.py", line 108, in as_widget
+    return widget.render(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\widgets.py", line 278, in render
+    context = self.get_context(name, value, attrs)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\widgets.py", line 715, in get_context
+    context["widget"]["optgroups"] = self.optgroups(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\widgets.py", line 676, in optgroups
+    self.create_option(
+  File "C:\dev\djangofinal\djangomagazin\myapp\widgets.py", line 9, in create_option
+    product = label.instance
+AttributeError: 'str' object has no attribute 'instance'
+"POST /add-order/ HTTP/1.1" 500 259568
+C:\dev\djangofinal\djangomagazin\myapp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /add-order/
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 25, in add_order
+    return render(request, 'add_order.html', {'form': form})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1059, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 710, in resolve
+    obj = self.var.resolve(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 842, in resolve
+    value = self._resolve_lookup(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 909, in _resolve_lookup
+    current = current()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\utils.py", line 87, in as_p
+    return self.render(self.template_name_p)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\utils.py", line 55, in render
+    return mark_safe(renderer.render(template, context))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\renderers.py", line 29, in render
+    return template.render(context, request=request).strip()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\defaulttags.py", line 242, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1065, in render
+    return render_value_in_context(output, context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1042, in render_value_in_context
+    value = str(value)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\utils.py", line 79, in __str__
+    return self.as_widget()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\boundfield.py", line 108, in as_widget
+    return widget.render(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\widgets.py", line 278, in render
+    context = self.get_context(name, value, attrs)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\widgets.py", line 715, in get_context
+    context["widget"]["optgroups"] = self.optgroups(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\widgets.py", line 676, in optgroups
+    self.create_option(
+  File "C:\dev\djangofinal\djangomagazin\myapp\widgets.py", line 9, in create_option
+    product = label.instance
+AttributeError: 'str' object has no attribute 'instance'
+"POST /add-order/ HTTP/1.1" 500 259568
+C:\dev\djangofinal\djangomagazin\myapp\widgets.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\widgets.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /add-order/
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+KeyError: 'endfor'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 25, in add_order
+    return render(request, 'add_order.html', {'form': form})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1059, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 710, in resolve
+    obj = self.var.resolve(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 842, in resolve
+    value = self._resolve_lookup(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 909, in _resolve_lookup
+    current = current()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\utils.py", line 87, in as_p
+    return self.render(self.template_name_p)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\utils.py", line 55, in render
+    return mark_safe(renderer.render(template, context))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\renderers.py", line 29, in render
+    return template.render(context, request=request).strip()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\defaulttags.py", line 242, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1065, in render
+    return render_value_in_context(output, context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1042, in render_value_in_context
+    value = str(value)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\utils.py", line 79, in __str__
+    return self.as_widget()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\boundfield.py", line 108, in as_widget
+    return widget.render(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\widgets.py", line 279, in render
+    return self._render(self.template_name, context, renderer)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\widgets.py", line 284, in _render
+    return mark_safe(renderer.render(template_name, context))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\renderers.py", line 28, in render
+    template = self.get_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\renderers.py", line 34, in get_template
+    return self.engine.get_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 565, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 18: 'endfor'. Did you forget to register or load this tag?
+"POST /add-order/ HTTP/1.1" 500 313415
+Watching for file changes with StatReloader
+"POST /add-order/ HTTP/1.1" 200 11348
+Watching for file changes with StatReloader
+"POST /add-order/ HTTP/1.1" 200 11828
+"POST /add-order/ HTTP/1.1" 302 0
+"GET /order-success/ HTTP/1.1" 200 459
+"GET /orders/ HTTP/1.1" 200 624
+"POST /add-order/ HTTP/1.1" 200 11828
+"GET /add-order/ HTTP/1.1" 200 11758
+Watching for file changes with StatReloader
+Internal Server Error: /add-order/
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 25, in add_order
+    return render(request, 'add_order.html', {'form': form})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1059, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 710, in resolve
+    obj = self.var.resolve(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 842, in resolve
+    value = self._resolve_lookup(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 909, in _resolve_lookup
+    current = current()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\utils.py", line 87, in as_p
+    return self.render(self.template_name_p)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\utils.py", line 55, in render
+    return mark_safe(renderer.render(template, context))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\renderers.py", line 29, in render
+    return template.render(context, request=request).strip()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\defaulttags.py", line 242, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1065, in render
+    return render_value_in_context(output, context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1042, in render_value_in_context
+    value = str(value)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\utils.py", line 79, in __str__
+    return self.as_widget()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\boundfield.py", line 108, in as_widget
+    return widget.render(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\widgets.py", line 279, in render
+    return self._render(self.template_name, context, renderer)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\widgets.py", line 284, in _render
+    return mark_safe(renderer.render(template_name, context))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\renderers.py", line 28, in render
+    template = self.get_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\renderers.py", line 34, in get_template
+    return self.engine.get_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\defaulttags.py", line 861, in do_for
+    nodelist_loop = parser.parse(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\defaulttags.py", line 861, in do_for
+    nodelist_loop = parser.parse(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\defaulttags.py", line 975, in do_if
+    nodelist = parser.parse(("endif",))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 555, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 16: 'static', expected 'endif'. Did you forget to register or load this tag?
+"GET /add-order/ HTTP/1.1" 500 363556
+"GET /admin/ HTTP/1.1" 200 8096
+"GET /admin/myapp/product/ HTTP/1.1" 200 9559
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/myapp/product/1/change/ HTTP/1.1" 200 11118
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Not Found: /products/WhatsApp_Image_2022-05-06_at_09.25.19_1.jpeg
+"GET /products/WhatsApp_Image_2022-05-06_at_09.25.19_1.jpeg HTTP/1.1" 404 3888
+Watching for file changes with StatReloader
+Not Found: /products/WhatsApp_Image_2022-05-06_at_09.25.19_1.jpeg
+"GET /products/WhatsApp_Image_2022-05-06_at_09.25.19_1.jpeg HTTP/1.1" 404 3888
+"GET /admin/myapp/product/1/change/ HTTP/1.1" 200 11118
+"GET /admin/myapp/product/ HTTP/1.1" 200 9559
+"GET /admin/ HTTP/1.1" 200 8096
+Internal Server Error: /add-order/
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 502, in parse
+    compile_func = self.tags[command]
+KeyError: 'static'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\dev\djangofinal\djangomagazin\myapp\views.py", line 25, in add_order
+    return render(request, 'add_order.html', {'form': form})
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1059, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 710, in resolve
+    obj = self.var.resolve(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 842, in resolve
+    value = self._resolve_lookup(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 909, in _resolve_lookup
+    current = current()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\utils.py", line 87, in as_p
+    return self.render(self.template_name_p)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\utils.py", line 55, in render
+    return mark_safe(renderer.render(template, context))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\renderers.py", line 29, in render
+    return template.render(context, request=request).strip()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1000, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\defaulttags.py", line 242, in render
+    nodelist.append(node.render_annotated(context))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 961, in render_annotated
+    return self.render(context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1065, in render
+    return render_value_in_context(output, context)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 1042, in render_value_in_context
+    value = str(value)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\utils.py", line 79, in __str__
+    return self.as_widget()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\boundfield.py", line 108, in as_widget
+    return widget.render(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\widgets.py", line 279, in render
+    return self._render(self.template_name, context, renderer)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\widgets.py", line 284, in _render
+    return mark_safe(renderer.render(template_name, context))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\renderers.py", line 28, in render
+    template = self.get_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\forms\renderers.py", line 34, in get_template
+    return self.engine.get_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 196, in compile_nodelist
+    return parser.parse()
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\defaulttags.py", line 861, in do_for
+    nodelist_loop = parser.parse(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\defaulttags.py", line 861, in do_for
+    nodelist_loop = parser.parse(
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 510, in parse
+    raise self.error(token, e)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 508, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\defaulttags.py", line 975, in do_if
+    nodelist = parser.parse(("endif",))
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 504, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\dev\djangofinal\venv\lib\site-packages\django\template\base.py", line 555, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 16: 'static', expected 'endif'. Did you forget to register or load this tag?
+"GET /add-order/ HTTP/1.1" 500 363404
+Watching for file changes with StatReloader
+"GET /add-order/ HTTP/1.1" 200 11704
+"POST /add-order/ HTTP/1.1" 302 0
+"GET /order-success/ HTTP/1.1" 200 459
+"GET /orders/ HTTP/1.1" 200 690
+"GET /add-order/ HTTP/1.1" 200 11704
+C:\dev\djangofinal\djangomagazin\myapp\widgets.py changed, reloading.
+Watching for file changes with StatReloader
+C:\dev\djangofinal\djangomagazin\myapp\forms.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /add-order/ HTTP/1.1" 200 11704

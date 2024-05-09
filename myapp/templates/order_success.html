@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Статус заказа</title>
+</head>
+<body>
+<!-- order_success.html -->
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>Ваш заказ удачно добавлен! </h2>
+<a href="{% url 'orders' %}">Посмотреть список заказов</a>
+{% endblock %}
+</body>
+</html>

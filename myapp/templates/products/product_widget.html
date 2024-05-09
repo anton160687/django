@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{% for group, options, index in widget.optgroups %}
+    {% for option in options %}
+        <div class="product-checkbox">
+            <label for="{{ option.id_for_label }}">
+                <input type="checkbox" name="{{ widget.name }}" value="{{ option.value }}" {% if option.selected %}checked{% endif %} id="{{ option.id_for_label }}">
+                {% if option.image_url %}
+                    <img src="{{ option.image_url }}" alt="{{ option.name }}">
+                {% endif %}
+                <span>{{ option.name }}</span>
+            </label>
+        </div>
+    {% endfor %}
+{% endfor %}
+</body>
+</html>

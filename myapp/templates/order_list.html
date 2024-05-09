@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Orders List</h1>
+<ul>
+    {% for order in orders %}
+    <li>Order by {{ order.customer.name }} - ${{ order.total_price }} - {{ order.date_ordered }}</li>
+    {% endfor %}
+</ul>
+</body>
+</html>
